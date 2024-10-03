@@ -16,14 +16,14 @@ The Blue Whale Hotel Reservation System is a user-friendly GUI application built
 
 - Java
 - Java Swing
-- MySQL (or any other database of your choice)
+- MySQL 
 - JDBC for database connectivity
 
 ### Prerequisites
 
 - JDK (Java Development Kit) 22
-- MySQL Database (or any other database system)
-- IDE (such as IntelliJ IDEA or Eclipse)
+- MySQL Database 
+- IDE 19
 
 ## Usage
 
